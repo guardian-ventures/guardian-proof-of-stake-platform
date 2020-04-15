@@ -18,13 +18,13 @@ in such a way that no trusted third parties are required anymore.
 ----
 ## Get it! ##
 
-  - *pre-packaged* - `https://www.guardian.nordicenergy.io/`
+  - *pre-packaged* - `https://www.guardian.ventures/`
   - *dependencies*:
   - *general* - Java 8
   - *Ubuntu* - `http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html`
   - *Debian* - `http://www.webupd8.org/2014/03/how-to-install-oracle-java-8-in-debian.html`
   - *FreeBSD* - `pkg install openjdk8`
-  - *repository* - `https://github.com/nordicenergy/guardian-proof-of-stake-platform.git`
+  - *repository* - `https://github.com/guardian-ventures/guardian-proof-of-stake-platform.git`
   
 ----
 ## Run it! ##
@@ -74,10 +74,10 @@ in such a way that no trusted third parties are required anymore.
     - OPERATORS-GUIDE.md
 
   - in the wiki:
-    - https://guardian.nordicenergy.io/docs/Getting_started
+    - https://guardian.ventures/docs/Getting_started
 
   - on the forums:
-    - https://forum.nordicenergy.co/ (under construction)
+    - https://forum.guardian.ventures/ (under construction)
     
 ----
 
